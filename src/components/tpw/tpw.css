@@ -1,0 +1,19 @@
+.banner-right {
+    width: 60%;
+    height: inherit;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.row1 {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    font-weight: lighter;
+    color: #878787;
+    margin: 0px 0px 16px 90px;
+    line-height: 22px;
+}
+
+.row2 {
+    margin: 0px 0px 0px 90px;
+}
